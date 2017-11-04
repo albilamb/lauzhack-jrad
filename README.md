@@ -1,1 +1,1 @@
-# shared_repo
+# Repository to share the code files during Lauzhack
